@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin name="importUblog" version="1.0" active="1">
+  <author>Vincent Untz</author>
+  
+  <label>pyblosxom import</label>
+  <desc>Migrate your blog from pyblosxom to DotClear.</desc>
+</plugin>

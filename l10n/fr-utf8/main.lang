@@ -1,0 +1,88 @@
+;pyblosxom import
+Importation pyblosxom
+;Migrate your blog from pyblosxom to DotClear.
+Migrer votre blog de pyblosxom vers DotClear.
+;This tool will import your pyblosxom data to DotClear.
+Cet outil va importer les données de pyblosxom vers DotClear.
+;No user specified
+Pas de rédacteur défini
+;No root category specified
+Pas de catégorie racine définie
+;No data directory specified
+Pas de répertoire de données défini
+;Specified data directory does not exist
+Le répertoire de données défini n'existe pas
+;Error(s)
+Erreur(s)
+;User who will be author of all posts:
+Rédacteur qui sera l'auteur des billets :
+;Category name for the pyblosxom root category:
+Nom de la catégorie pour la catégorie racine de pyblosxom :
+;pyblosxom data directory:
+Répertoire de données pyblosxom :
+;pyblosxom comments directory (usually, it's in the <code>comments</code> subdirectory):
+Répertoire de commentaires pyblosxom (il s'agit généralement du sous-répertoire <code>comments</code>) :
+;Language for the posts:
+Langue pour les billets :
+;Delete the already existing DotClear categories, posts and comments.
+Supprimer les catégories, billets et commentaires préexistants dans DotClear
+;Write <code>RedirectPermanent</code> rules for an Apache configuration
+Afficher des règles <code>RedirectPermanent</code> pour une configuration Apache
+;Tidy HTML code.
+S'assurer de la validité du code HTML (libtidy).
+;The "tidy" library is not available, you will not be able to clean the HTML code.
+La bibliothèque "tidy" n'est pas disponible. Vous ne pourrez pas vous assurer de la validité du code HTML.
+;Begin import
+Commencer l'importation
+;During deletion of table %s:
+Lors de la suppression de la table %s :
+;During increment reset of table %s:
+Lors de la remise à zéro de l'incrémentation de la table %s :
+;Could not create category "%s".
+Ne peut pas créer la catégorie "%s" :
+;Could not create the post corresponding to "%s" because the corresponding category ("%s") does not exist.
+Ne peut pas créer le billet correspondant à "%s" car la catégorie correspondante ("%s") n'existe pas.
+;Could not create the post corresponding to "%s".
+Ne peut pas créer le billet correspondant à "%s".
+;Could not create the comment corresponding to "%s" because the corresponding post (%s) does not exist.
+Ne peut pas créer le commentaire correspondant à "%s" car le billet correspondant ("%s") n'existe pas.
+;Congratulations
+Félicitations
+;You have successfully imported your pyblosxom data in DotClear.
+Vos données puyblosxom ont été importées avec succès vers DotClear.
+;Report
+Rapport
+;Warning(s)
+Avertissement(s)
+;RedirectPermanent rules
+Règles RedirectPermanent
+;Back to tools
+Retour aux outils
+;Internal error
+Erreur interne
+;More than one %s element in comment "%s".
+Plus d'un élément %s pour le commentaire "%s".
+;Comment file "%s" does not exist.
+Le fichier de commentaire "%s" n'existe pas.
+;Could not parse the XML in comment file "%s".
+Ne peut pas parser le XML dans le fichier de commentaire "%s".
+;During import of %s:
+Pendant l'importation de %s :
+;"%s" is not a directory.
+"%s" n'est pas un répertoire.
+;Could not open directory "%s".
+Ne peut pas ouvrir le répertoire "%s".
+;Ignoring comment "%s" because there already is a comment created at the same time.
+Le commentaire "%s" est ignoré car il y a déjà un commentaire créé à la même date.
+;During update of %s:
+Lors de la mise à jour de %s :
+;Post file "%s" does not exist.
+Le fichier de billet "%s" n'existe pas.
+;Could not open post "%s".
+Ne peut pas ouvrir le billet "%s".
+;Error while adding category "%s":
+Erreur lors de l'ajout de la catégorie "%s" :
+;During selection of cat_id in table %s:
+Lors de la sélection de cat_id dans la table %s :
+;Ignoring post "%s" because there already is a post with the same modified time.
+Le billet "%s" est ignoré car il y a déjà un billet créé à la même date.
